@@ -1,7 +1,7 @@
 import telepot
 
 # Insert your telegram token below
-bot_token = '6738497767:AAEwPts6HDxCXTOA8d5MIuHXjrR5CgMfXhQ'
+bot_token = ''
 bot = telepot.Bot(bot_token)
 
 # Get updates to retrieve the latest messages
